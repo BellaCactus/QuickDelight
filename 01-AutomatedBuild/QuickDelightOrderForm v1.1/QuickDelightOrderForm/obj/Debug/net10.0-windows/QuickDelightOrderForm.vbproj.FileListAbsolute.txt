@@ -1,0 +1,16 @@
+C:\Users\bowen\source\repos\QuickDelightOrderForm\QuickDelightOrderForm\bin\Debug\net10.0-windows\QuickDelightOrderForm.exe
+C:\Users\bowen\source\repos\QuickDelightOrderForm\QuickDelightOrderForm\bin\Debug\net10.0-windows\QuickDelightOrderForm.deps.json
+C:\Users\bowen\source\repos\QuickDelightOrderForm\QuickDelightOrderForm\bin\Debug\net10.0-windows\QuickDelightOrderForm.runtimeconfig.json
+C:\Users\bowen\source\repos\QuickDelightOrderForm\QuickDelightOrderForm\bin\Debug\net10.0-windows\QuickDelightOrderForm.dll
+C:\Users\bowen\source\repos\QuickDelightOrderForm\QuickDelightOrderForm\bin\Debug\net10.0-windows\QuickDelightOrderForm.pdb
+C:\Users\bowen\source\repos\QuickDelightOrderForm\QuickDelightOrderForm\obj\Debug\net10.0-windows\QuickDelightOrderForm.Form1.resources
+C:\Users\bowen\source\repos\QuickDelightOrderForm\QuickDelightOrderForm\obj\Debug\net10.0-windows\QuickDelightOrderForm.vbproj.GenerateResource.cache
+C:\Users\bowen\source\repos\QuickDelightOrderForm\QuickDelightOrderForm\obj\Debug\net10.0-windows\QuickDelightOrderForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bowen\source\repos\QuickDelightOrderForm\QuickDelightOrderForm\obj\Debug\net10.0-windows\QuickDelightOrderForm.AssemblyInfoInputs.cache
+C:\Users\bowen\source\repos\QuickDelightOrderForm\QuickDelightOrderForm\obj\Debug\net10.0-windows\QuickDelightOrderForm.AssemblyInfo.vb
+C:\Users\bowen\source\repos\QuickDelightOrderForm\QuickDelightOrderForm\obj\Debug\net10.0-windows\QuickDelightOrderForm.vbproj.CoreCompileInputs.cache
+C:\Users\bowen\source\repos\QuickDelightOrderForm\QuickDelightOrderForm\obj\Debug\net10.0-windows\QuickDelightOrderForm.dll
+C:\Users\bowen\source\repos\QuickDelightOrderForm\QuickDelightOrderForm\obj\Debug\net10.0-windows\refint\QuickDelightOrderForm.dll
+C:\Users\bowen\source\repos\QuickDelightOrderForm\QuickDelightOrderForm\obj\Debug\net10.0-windows\QuickDelightOrderForm.pdb
+C:\Users\bowen\source\repos\QuickDelightOrderForm\QuickDelightOrderForm\obj\Debug\net10.0-windows\QuickDelightOrderForm.genruntimeconfig.cache
+C:\Users\bowen\source\repos\QuickDelightOrderForm\QuickDelightOrderForm\obj\Debug\net10.0-windows\ref\QuickDelightOrderForm.dll
